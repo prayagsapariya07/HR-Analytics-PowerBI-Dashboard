@@ -1,7 +1,7 @@
 # HR Analytics Dashboard - Power BI (Employee Attrition Analysis)
 
 ![Power BI Logo](https://img.shields.io/badge/Power%20BI-FF0000?logo=powerbi&logoColor=white)
-![Level: Beginner](https://img.shields.io/badge/Level-Beginner-brightgreen)
+![Level: Intermediate](https://img.shields.io/badge/Level-Beginner-brightgreen)
 
 An interactive **HR Analytics Dashboard** built in Power BI to analyze employee attrition and provide actionable insights for HR teams.
 
