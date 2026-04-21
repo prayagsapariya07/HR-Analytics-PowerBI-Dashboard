@@ -24,17 +24,6 @@ To identify key factors driving employee attrition (why employees leave) and hel
 - **Data Processing**: Power Query
 - **Dataset**: HR Analytics CSV (1470 records)
 
-##  Project Structure
-
-HR-Analytics-PowerBI/
-├── HR Analytics Dashboard.pbix          # Main Power BI file
-├── data/
-│   └── HR-Employee-Attrition.csv        # Raw dataset
-├── screenshots/
-│   ├── dashboard_overview.png
-├── README.md
-└── Project_Documentation.pdf
-
 ##  Features
 - Interactive Department slicer (HR / R&D / Sales)
 - Real-time KPI cards (Headcount, Attrition Rate, Avg Salary, Avg Tenure)
