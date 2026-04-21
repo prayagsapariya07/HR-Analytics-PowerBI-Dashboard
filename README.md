@@ -5,10 +5,10 @@
 
 An interactive **HR Analytics Dashboard** built in Power BI to analyze employee attrition and provide actionable insights for HR teams.
 
-## 🎯 Objective
+##  Objective
 To identify key factors driving employee attrition (why employees leave) and help reduce turnover through data visualization.
 
-## 📊 Key Insights
+##  Key Insights
 - **Attrition Rate**: ~16.1% (237 out of 1470 employees)
 - Highest attrition in:
   - Age group 26-35
